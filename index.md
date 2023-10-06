@@ -20,6 +20,9 @@ Colab notebooks will be linked below. Click the link to open in Colab. You will 
 
 * **Week 1 (6 October 2023)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1.ipynb)
+    - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
+* **Week 2 (13 October 2023)**
+    - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
     - Solutions: (will be posted after the labs)
-
+    
 The older `.py` version of the assignments can be found in the [labs repo](https://github.com/comp0088/labs). If for some reason you can't or don't wish to use Colab, you are welcome to use these instead — the material covered is very similar — but note that TAs will not provide technical support for these versions or for your local Python setup.
