@@ -16,7 +16,7 @@ PDF slide decks to accompany the lectures are in the [lectures repo](https://git
 
 ## Labs
 
-Colab notebooks will be linked below. Click the link to open in Colab. You will probably receive a warning that the notebook was not authored by Google, which is obviously true — please trust it anyway. Once opened, you will need to save a copy in your own Google Drive in order to be able to save your changes.
+Colab notebooks are linked below. Click the link to open in Colab. You will probably receive a warning that the notebook was not authored by Google, which is obviously true — please trust it anyway. Once opened, you will need to save a copy in your own Google Drive in order to be able to save your changes.
 
 * **Week 1 (6 October 2023)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1.ipynb)
