@@ -4,9 +4,9 @@ layout: default
 Course materials for the
 [Introduction to Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-machine-learning-COMP0088)
 module at [UCL Computer Science](https://www.ucl.ac.uk/computer-science/), for delivery in
-Term 1 (October-December 2023). This is a secondary site for publicly-accessible resources,
+Term 1 (September-December 2024). This is a secondary site for publicly-accessible resources,
 notably those used by the Colab notebooks for the weekly lab sessions.
-The primary hub for the module is its [UCL Moodle page](https://moodle.ucl.ac.uk/course/view.php?id=33722).
+The primary hub for the module is its [UCL Moodle page](https://moodle.ucl.ac.uk/course/view.php?id=41623).
 
 ## Lectures
 
@@ -18,8 +18,10 @@ PDF slide decks to accompany the lectures are in the [lectures repo](https://git
 
 Colab notebooks are linked below. Click the link to open in Colab. You will probably receive a warning that the notebook was not authored by Google, which is obviously true — please trust it anyway. Once opened, you will need to save a copy in your own Google Drive in order to be able to save your changes.
 
-* **Week 1 (6 October 2023)**
+* **Week 1 (4 October 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1.ipynb)
+
+<!--
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
 * **Week 2 (13 October 2023)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
@@ -42,5 +44,6 @@ Colab notebooks are linked below. Click the link to open in Colab. You will prob
 * **Week 8 (1 December 2023)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8%2Bsolutions.ipynb)
+-->
 
-The older `.py` version of the assignments can be found in the [labs repo](https://github.com/comp0088/labs). If for some reason you can't or don't wish to use Colab, you are welcome to use these instead — the material covered is very similar — but note that TAs will not provide technical support for these versions or for your local Python setup.
+The older `.py` version of the assignments can be found in the [labs repo](https://github.com/comp0088/labs). If for some reason you can't or don't wish to use Colab, you are welcome to use these instead — the material covered is pretty similar — but note that TAs will not provide technical support for these versions or for your local Python setup.
