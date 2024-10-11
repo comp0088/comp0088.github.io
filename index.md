@@ -20,14 +20,13 @@ Colab notebooks are linked below. Click the link to open in Colab. You will prob
 
 * **Week 1 (4 October 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1.ipynb)
-
-<!--
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
-* **Week 2 (13 October 2023)**
+* **Week 2 (11 October 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2%2Bsolutions.ipynb)
-* **Week 3 (20 October 2023)**
+* **Week 3 (18 October 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab3.ipynb)
+<!--
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab3%2Bsolutions.ipynb)
 * **Week 4 (27 October 2023)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab4.ipynb)
