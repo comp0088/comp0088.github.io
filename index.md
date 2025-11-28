@@ -39,13 +39,10 @@ Colab notebooks are linked below. Click the link to open in Colab. You will prob
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab6%2Bsolutions.ipynb)
 * **Week 7 (21 November 2025)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab7.ipynb)
-    
-<!--
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab7%2Bsolutions.ipynb)
-* **Week 8 (29 November 2024)**
+* **Week 8 (28 November 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8%2Bsolutions.ipynb)
 
--->
 
 Ancient `.py` version of the assignments can be found in the [labs repo](https://github.com/comp0088/labs). If for some reason you can't or don't wish to use Colab, you are welcome to use these instead. The material covered is pretty similar, but note that they have not been updated in several years and TAs will not provide technical support for them or for your local Python setup.
